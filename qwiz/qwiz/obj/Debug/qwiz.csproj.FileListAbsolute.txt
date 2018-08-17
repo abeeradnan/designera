@@ -1,0 +1,9 @@
+c:\users\w\documents\visual studio 2013\Projects\qwiz\qwiz\bin\Debug\qwiz.exe.config
+c:\users\w\documents\visual studio 2013\Projects\qwiz\qwiz\bin\Debug\qwiz.exe
+c:\users\w\documents\visual studio 2013\Projects\qwiz\qwiz\bin\Debug\qwiz.pdb
+c:\users\w\documents\visual studio 2013\Projects\qwiz\qwiz\obj\Debug\qwiz.csprojResolveAssemblyReference.cache
+c:\users\w\documents\visual studio 2013\Projects\qwiz\qwiz\obj\Debug\qwiz.Form1.resources
+c:\users\w\documents\visual studio 2013\Projects\qwiz\qwiz\obj\Debug\qwiz.Properties.Resources.resources
+c:\users\w\documents\visual studio 2013\Projects\qwiz\qwiz\obj\Debug\qwiz.csproj.GenerateResource.Cache
+c:\users\w\documents\visual studio 2013\Projects\qwiz\qwiz\obj\Debug\qwiz.exe
+c:\users\w\documents\visual studio 2013\Projects\qwiz\qwiz\obj\Debug\qwiz.pdb
